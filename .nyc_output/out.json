@@ -6,7 +6,9 @@
     "branchMap": {},
     "s": {},
     "f": {},
-    "b": {}
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "93938d1684fdcdb096aa54e34eff12c59468058f"
   },
   "/Users/je-martinez-codex/Documents/Repositories/Personal/basic-cypress-vue-with-vue-cli/src/components/HelloWorld.vue": {
     "path": "/Users/je-martinez-codex/Documents/Repositories/Personal/basic-cypress-vue-with-vue-cli/src/components/HelloWorld.vue",
@@ -15,6 +17,32 @@
     "branchMap": {},
     "s": {},
     "f": {},
-    "b": {}
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "50cd6f41840c4fef10b4722b6e31867f9141c85f"
+  },
+  "/Users/je-martinez-codex/Documents/Repositories/Personal/basic-cypress-vue-with-vue-cli/src/main.js": {
+    "path": "/Users/je-martinez-codex/Documents/Repositories/Personal/basic-cypress-vue-with-vue-cli/src/main.js",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 0
+        },
+        "end": {
+          "line": 4,
+          "column": 28
+        }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {
+      "0": 1
+    },
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "5a05a5052ec87bd10d3be9c53b5a390f4885065f"
   }
 }
